@@ -1,5 +1,5 @@
 # vue_shop
-vue-shop的黑马视频源代码，包括前后端，后端的源代码是全的；前端目前已经完成登录、用户管理、权限管理功能，还在完善中。
+vue-shop的黑马视频源代码，包括前后端源代码，前端采用Vue、Vue-router、Element-UI、Axios、Echarts技术栈，后端采用Node.js、Express、Jwt、Mysql、Sequelize技术栈。
 ## 前端视频地址
 本代码来源B站，地址为：[Vue实战项目：电商管理系统（Element-UI）](https://www.bilibili.com/video/av74592164)
 UP主的视频通俗易懂，很适合前端小白观看和学习。
